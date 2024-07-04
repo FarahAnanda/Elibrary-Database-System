@@ -1,6 +1,6 @@
 # E-Library Database System
 
-This project involves creating an e-library database system that models various entities and their relationships. The system includes libraries, books, authors, genres, members, library cards, loans, and holds.
+This project involves creating an e-library database system that models various entities and their relationships. The system includes libraries, books, authors, genres, members, library cards, loans, and holds. Full walkthrough for this project can be found on [my Medium article](https://medium.com/@farahananda/behind-the-scenes-of-e-library-application-making-its-database-fa7c028db0d5).
 
 ## Mission Statement
 
